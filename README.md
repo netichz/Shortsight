@@ -44,10 +44,6 @@ Whether you're studying, working, or simply trying to build healthier digital ha
 • Custom colors
 • Adjustable overlay
 
-☁️ Cloud Sync
-• Sign in with Google
-• Sync your data across devices
-• Keep your progress, settings, achievements, and statistics everywhere
 
 🔒 Privacy First
 Your data stays on your device unless you choose to enable cloud sync. We never sell your personal information.
