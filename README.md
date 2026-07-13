@@ -1,38 +1,62 @@
-Shortsight – Take Back Your Time
+🚀 Shortsight – Take Back Your Time
 
-Shortsight helps you reduce endless scrolling on YouTube Shorts and YouTube while giving you powerful insights into your viewing habits.
+Shortsight is a powerful productivity extension that helps you stop doomscrolling, reduce distractions, and understand your YouTube and Shorts usage through detailed analytics.
 
-🚀 Features
+Whether you're studying, working, or simply trying to build healthier digital habits, Shortsight gives you the tools to stay focused.
 
-• Track Shorts watched and total watch time
+━━━━━━━━━━━━━━━━━━━━
+✨ FEATURES
+━━━━━━━━━━━━━━━━━━━━
+
+📊 Advanced Analytics
+• Track Shorts watched
+• Track total watch time
 • Daily, weekly, monthly & lifetime statistics
-• Beautiful analytics with graphs and calendar
-• Block Shorts completely
-• Block YouTube distractions
-• Daily limits & watch time limits
-• Focus Mode with password protection
-• Smart reminders & bait nudges
-• Productivity score & focus analytics
-• Achievements & streak tracking
+• Activity graphs
+• Calendar history
+• Usage comparison
+• Productivity insights
+
+🎯 Focus Tools
+• Focus Mode
+• Daily Shorts limit
+• Watch time limit
+• Password-protected limits
+• Smart reminders
+• Bait nudges to stop scrolling
+• Session tracking
+
+🚫 Blocking
+• Block YouTube Shorts
+• Reduce distractions
+• Stay focused while studying or working
+
+🏆 Motivation
+• Achievements
+• Streak tracking
+• Productivity score
+• Focus vs Wasted Time charts
 • Country leaderboard
-• Cloud sync across devices
-• Beautiful themes & customization
-• Privacy-friendly local storage with optional cloud sync
 
-📊 Powerful Analytics
+🎨 Personalization
+• Multiple beautiful themes
+• UI customization
+• Custom colors
+• Adjustable overlay
 
-See exactly:
+☁️ Cloud Sync
+• Sign in with Google
+• Sync your data across devices
+• Keep your progress, settings, achievements, and statistics everywhere
 
-Time spent
-Shorts watched
-Active hours
-Daily activity
-Weekly trends
-Monthly history
-Focus vs wasted time
-Productivity score
-🎯 Built for Students & Professionals
+🔒 Privacy First
+Your data stays on your device unless you choose to enable cloud sync. We never sell your personal information.
 
-Whether you're preparing for exams, working, or simply trying to stop doomscrolling, Shortsight helps you stay focused and build healthier digital habits.
+Perfect for:
+• Students
+• Professionals
+• Developers
+• Content creators
+• Anyone who wants to reduce YouTube addiction and regain control of their time.
 
 Made with ❤️ by Netichz.
